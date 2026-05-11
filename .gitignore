@@ -1,0 +1,37 @@
+# Python stuff
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+
+# PyTest & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+coverage.xml
+
+# Allure reports
+allure-results/
+allure-report/
+
+# IDE settings
+.idea/
+.vscode/
+*.swp
+
+# Docker
+db_data/
+wp-content/
+!wp-content/.keep
+
+# Environment variables
+.env
+.DS_Store
+
+# Logs
+tests.log

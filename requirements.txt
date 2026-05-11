@@ -1,0 +1,10 @@
+pytest
+requests
+allure-pytest
+pymysql
+pydantic
+pydantic-settings
+python-dotenv
+black
+flake8
+faker
